@@ -1,0 +1,39 @@
+{
+    "1": {
+        "1": {
+            "phi": "1y-_spYWdCTnhkAJBirGxr63bHk7RLbBZ",
+            "trainModel": "1TiEAcRqNM40AWC7BCdo3bD436jYORAPo",
+            "vocabulary": "1WUnpsTS4xe8EBt0Z6gH-xqVL0Th7erIV",
+            "wordsPerRating": "1ObaIdbDPnbSN5keuHBdf_xt9W22kAM57"
+        },
+        "2": {
+            "phi": "1LhxvVfTx9wxP2KffMsoAWAz1lOUc5o5Y",
+            "trainModel": "1tNIPvH19x15KABaAOio1WTUH8I0J_4or",
+            "vocabulary": "1dSxSi1gEQhrz8D6lW7tNGvujuAQjWej8",
+            "wordsPerRating":"1m-0tfYdB_EDiTe-0Wsj1Efb8Kr57i9ow",
+            "en_stop":"1I-LCCX-m8sA-qOksJyqr9h78Z8kEepp9"
+        },
+        "3": {
+            "phi": "1XmN7oywDPG46N1ihMHXcD4PsOeOY9_WY",
+            "trainModel": "1_LunKHpVzSvlFDvaf3l21LVORCFmnJt5",
+            "vocabulary": "1A4e4z3rOnbfcAdxwTMoLwHOn_qUfnhR8",
+            "wordsPerRating":"1yAtioSAYxf5OuRS3mGaBJ4WMF65H6SCL",
+            "en_stop":"1rvHcgV5FE6X8BtJ0hnUKd8eSQ9BR1dZF",
+            "positive_words":"1yjkYCdlqY1cU1gek9I3b6tRBGlv6OwAC",
+            "negative_words":"16oC8ALBQrc4yrqIxmHVtIsfMUgFDYQu4"
+        }
+    },
+    "2": {
+        "1": {
+            "trainParameters": "1gL-dsvClcnEUx2sHY6DgqGz_yG21TOW3"
+        },
+        "2": {
+            "c = 1.0(linear).model": "1q21R_P-zmwWHnIcoLWmrvgYsrgibjBWw"
+        },
+        "3": {
+            "c = 5.0(gaussian).model": "18HfCddynz40WuphcICabdzchkTaZsI_f"
+        }
+    }
+
+
+}
